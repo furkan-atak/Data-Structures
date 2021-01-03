@@ -1,2 +1,2 @@
 # Data-Structures
-Some data structures implementations like hash linkedlist and queue.
+Some data structures implementations with java like hash linkedlist and queue.
