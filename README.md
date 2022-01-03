@@ -1,2 +1,8 @@
 # Data-Structures
-Some data structures implementations with java like hash linkedlist and queue.
+My own implemantation of some of the data structures like:
+  -Hash
+  -Queue
+  -LinkedList with HashTable
+  -DoubleLinkedList
+  -CircularLinkedList
+  
