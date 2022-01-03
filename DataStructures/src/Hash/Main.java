@@ -12,7 +12,7 @@ import java.util.Random;
  *
  * @author Pc
  */
-public class NewClass {
+public class Main {
     public static void main(String[] args) {
         int row,col;
         row = 3;
